@@ -7,7 +7,7 @@
 Background:
 - Mid-1990's - My early introduction to IT and my first set of certifications - MCSE (NT4), MCDBA (SQL7) and MCSD (Visual Basic).
 - The turn of the century - From Training to Implementation - An Implementation Engineer at NetIQ for their enterprise monitoring solution - NetIQ AppManager. NetIQ then acquires Mission Critical Software and I'm suddenly become an Implementation Engineer for NetIQ Operations Manager
-- 2000 - NetIQ Operations Manager becomes Microsoft Operations Manager (MOM 2000 \ MOM 2005 \ SCOM 2007 etc.)
+- 2000 onwards - NetIQ Operations Manager becomes Microsoft Operations Manager (MOM 2000 \ MOM 2005 \ SCOM 2007 etc.)
 - I ride the Microsoft MOM \ SCOM wave for 20 years at a Microsoft Gold Partner (where I was an MVP in Cloud and Datacenter Management), at Microsoft as a Senior Premier Field Engineer and then at the UK central Bank. 
 
 <!---
